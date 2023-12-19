@@ -14,7 +14,7 @@
     <body>
         <div class="row">
                     <div class="col-sm-6" style="background-color: lightgreen;min-height: 80px;font-size: 30px;text-align: center;line-height: 80px;">Copyright &copy; to CRM Lab</div>
-                    <div class="col-sm-6" style="background-color: lightsalmon;min-height: 80px;font-size: 30px;text-align: center;line-height: 80px;">Developed by Rehan Firoz</div>
+                    <div class="col-sm-6" style="background-color: lightsalmon;min-height: 80px;font-size: 30px;text-align: center;line-height: 80px;">Developed by Rishu Maurya</div>
         </div>
     </body>
 </html>
